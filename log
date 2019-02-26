@@ -1,0 +1,214 @@
+    1  dir
+    2  cd desktop
+    3  ls -l
+    4  cd Desktop
+    5  dir
+    6  list
+    7  ls
+    8  cd clmystery-master
+    9  ls
+   10  ls -l
+   11  hint1
+   12  cd hint1
+   13  more hint1
+   14  c
+   15  ..
+   16  --
+   17  cd ..
+   18  cd clmystery-master
+   19  ls
+   20  cd mystery
+   21  ls
+   22  ls -l
+   23  cat crimescene
+   24  ls
+   25  /CLUE
+   26  dir
+   27  cat crimescene
+   28  grep CLUE
+   29  dir
+   30  cd Desktop
+   31  dir
+   32  cd clmystery-master
+   33  cd mystery
+   34  grep "CLUE" crimescene
+   35  >/Desktop/clue/clue.txt
+   36  grep "CLUE" crimescene
+   37  grep "CLUE" crimescene> clue.txt
+   38  dir
+   39  cat interviews
+   40  cd interviews
+   41  dir
+   42  cd..
+   43  dir
+   44  cd ..
+   45  dir
+   46  cd streets
+   47  dir
+   48  cd ..
+   49  dir
+   50  cd people
+   51  ls -l
+   52  cat people
+   53  head 20  people
+   54  grep "Annabel" people
+   55  grep "Annabel" people>annabel.txt
+   56  dir
+   57  cd vehicles
+   58  head vehicles
+   59  dir
+   60  cd ..
+   61  dir
+   62  cd mystery
+   63  dir
+   64  cd memberships
+   65  dir
+   66  ls -l
+   67  head AAA
+   68  AAA
+   69  cat AAA
+   70  ls
+   71  cat AAA.txt Delta_SkyMiles.txt Terminal_City_Library.txt Museum_of_Bash_History.txt
+   72  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History
+   73  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History>crossdata.txt
+   74  dir
+   75  head AAA
+   76  cd ..
+   77  cd intervies
+   78  cd interviews
+   79  cat *
+   80  cat*> interview.txt
+   81  grep "Annabel" interview
+   82  grep "Annabel" interview.txt
+   83  cat * > interview.txt
+   84  grep "Annabel" interview.txt
+   85  grep "annabel" interview.txt
+   86  dir
+   87  cd..
+   88  dir
+   89  cd ..
+   90  dir
+   91  cd streets
+   92  dir
+   93  ls -l
+   94  cat Hart Place
+   95  cat Hart_Place
+   96  grep "Annabel"  Hart_Place
+   97  grep "Sun"  Hart_Place
+   98  Head Hart_Place
+   99  head Hart_Place
+  100  grep "insert"  Hart_Place
+  101  head Buckingham_Place
+  102  dir
+  103  cd ..
+  104  dir
+  105  grep annabel"*
+  106  dir
+  107  dir
+  108  grep annabel" *
+  109  grep "annabel" *
+  110  cd interviews
+  111  grep "annabel" *
+  112  cd ..
+  113  dir
+  114  cd streets
+  115  grep "annabel" *
+  116  grep -i  "annabel" *
+  117  cd ..
+  118  dir
+  119  cd vehicles
+  120  grep -i  "annabel" vehicles
+  121  grep -i -n  "annabel" vehicles
+  122  cat vehicles
+  123  n 1
+  124  -n 1
+  125  &n
+  126  1n
+  127  -1n
+  128  &G
+  129  1g
+  130  cat vehicles
+  131  1g
+  132  less +22681 vehicles
+  133  less +22737 vehicles
+  134  cd .
+  135  cd ..
+  136  dir
+  137  cd mystery
+  138  dir
+  139  cd streets
+  140  dir
+  141  grep * Fiat
+  142  grep * "Fiat"
+  143  grep "Fiat" *
+  144  grep "BMW" *
+  145  grep "0027BTD" *
+  146  dir
+  147  cd..
+  148  dir
+  149  cd ..
+  150  dir
+  151  grep "CLUE" crimescene
+  152  dir
+  153  streets
+  154  cd streets
+  155  dir
+  156  head -n 179 Buckingham_Place | tail -n 1
+  157  head -n 40 Hart_Place | tail -n 1
+  158  c ..
+  159  cd ..
+  160  cd interviews
+  161  dir
+  162  interview-699607
+  163  cat interview-699607
+  164  cat interview-47246024
+  165  cd ..
+  166  dir
+  167  cd mystery
+  168  dir
+  169  cd vehicles
+  170  grep "L337" vehicles
+  171  grep "L337" vehicles -n
+  172  less vehicles
+  173  grep "L337" -A 6 vehicles
+  174  grep "L337" -A 6 vehicles> list.txt
+  175  dir
+  176  cd membershisps
+  177  cd memberships
+  178  dir
+  179  grep "jacqui maher" | cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History
+  180  dir
+  181  cd Dsoktop
+  182  cd Desktop
+  183  cd
+  184  dir
+  185  cd Desktop
+  186  dir
+  187  cd clmystery-master
+  188  cd mystery
+  189  cd memberships
+  190  dir
+  191  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bach_History> crossdata
+  192  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bach_History> crossdata.txt
+  193  grep "jacqui maher" crossdata
+  194  grep "jeremy bowers" crossdata
+  195  grep "jeremy" crossdata
+  196  grep "joe" crossdata
+  197  grep "aron" crossdata
+  198  grep "heater" crossdata
+  199  grep"joe" AAA 
+  200  grep "joe" AAA 
+  201  grep "jeremy" AAA 
+  202  grep -i  "jeremy" AAA 
+  203  grep -i  "jeremy" crossdata
+  204  grep -i  "jacqui" crossdata
+  205  grep -i  "joe" crossdata
+  206  grep -i  "joe germuska" crossdata
+  207  grep -i  "heater" crossdata
+  208  grep -i  "aron" crossdata
+  209  cd ..
+  210  dir
+  211  people
+  212  grep -i "jacqui" people
+  213  echo jeremy bowers
+  214  history> historique.log
